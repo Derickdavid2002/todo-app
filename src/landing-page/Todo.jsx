@@ -89,7 +89,7 @@ function Todo() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-purple-900">
+    <div className="min-h-screen flex items-center justify-center bg-purple-700">
       {showWelcome ? (
         <div className="text-white text-3xl font-bold animate-pulse">
           Welcome to My Todo App!
