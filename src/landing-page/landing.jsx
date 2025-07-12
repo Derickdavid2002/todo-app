@@ -2,7 +2,7 @@ import Todo from "./Todo";
 
 function LandingPage() {
   return (
-    <div className="bg-[#8758ff] ">
+    <div className="">
      <Todo />
     </div>
   );
